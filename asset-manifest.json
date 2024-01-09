@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/htt[://fahadperwani.github.io/sudoku-game/static/css/main.426b8461.css",
+    "main.js": "/htt[://fahadperwani.github.io/sudoku-game/static/js/main.11fa9df7.js",
+    "index.html": "/htt[://fahadperwani.github.io/sudoku-game/index.html",
+    "main.426b8461.css.map": "/htt[://fahadperwani.github.io/sudoku-game/static/css/main.426b8461.css.map",
+    "main.11fa9df7.js.map": "/htt[://fahadperwani.github.io/sudoku-game/static/js/main.11fa9df7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426b8461.css",
+    "static/js/main.11fa9df7.js"
+  ]
+}
